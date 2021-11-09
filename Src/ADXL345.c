@@ -2,7 +2,7 @@
  * ADXL345.c
  *
  *  Created on: 4 Kas 2021
- *      Author: DELL
+ *      Author: Ümit Can Güveren
  */
 #include "ADXL345.h"
 #include "stm32f407xx.h"
