@@ -5,8 +5,6 @@
  *      Author: Ümit Can Güveren
  */
 #include "ADXL345.h"
-#include "stm32f407xx.h"
-#include "stm32f4xx.h"
 
 static I2C_HandleTypeDef ADXL345_I2C;
 

@@ -12,7 +12,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
-#include "stm32f407xx.h"
 #include "stm32f4xx.h"
 
 #define ADXL345_DEVICE_ADDRESS	  0x53
